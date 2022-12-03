@@ -1,5 +1,5 @@
 bool scm(int a, int b) {
-  a=abs(aa);
+  a=abs(a);
   b=abs(b);
   if (a==0 || a==1)
     return false;
