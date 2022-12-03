@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "Dec.h"
   using namespace std;
 int main(){
   int a;
